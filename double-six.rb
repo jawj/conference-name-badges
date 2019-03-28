@@ -6,7 +6,7 @@ $stdout.puts $stdin.gets
 # now repeat until end of file
 until $stdin.eof?
 
-  # read 6 lines
+  # read in 6 lines
   inlines = (0..5).map { $stdin.gets }
 
   # spit them out, first in the original order,
