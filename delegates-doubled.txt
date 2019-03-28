@@ -1,0 +1,13 @@
+Name	Affiliation	@Mon	@Tue	@Wed	@ConfAsst	Position
+Cho Chang	Hogwarts School of Witchcraft and Wizardry				ConfAsst.ai
+Cornelius Fudge	Ministry of Magic					Minister for Magic
+Bellatrix Lestrange	Azkaban	MonN.ai	TueN.ai	WedY.ai
+Xenophilius Lovegood	The Quibbler	MonY.ai	TueY.ai	WedY.ai
+Minerva McGonagall	Order of the Phoenix	MonN.ai	TueY.ai	WedN.ai
+Bill Weasley	Gringotts Wizarding Bank	MonN.ai	TueY.ai	WedN.ai
+Cornelius Fudge	Ministry of Magic					Minister for Magic
+Cho Chang	Hogwarts School of Witchcraft and Wizardry				ConfAsst.ai
+Xenophilius Lovegood	The Quibbler	MonY.ai	TueY.ai	WedY.ai
+Bellatrix Lestrange	Azkaban	MonN.ai	TueN.ai	WedY.ai
+Bill Weasley	Gringotts Wizarding Bank	MonN.ai	TueY.ai	WedN.ai
+Minerva McGonagall	Order of the Phoenix	MonN.ai	TueY.ai	WedN.ai
