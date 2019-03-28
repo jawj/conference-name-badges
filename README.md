@@ -86,7 +86,7 @@ To make this work, badges 1, 2 and 3 must be at the _top left_ of sheets 1, 2 an
 
 Once again I wrote [a short Ruby script](cutting-order.rb) to automate this shuffle. This can be combined with the double-siding procedure above, but the shuffle must be done **first**.
 
-The script assumes that your original delegate data is in the same order you want the cards to come out in.
+This procedure assumes that your original delegate data is in the same order you want the cards to come out in, of course.
 
 On Mac or Linux, you can run this from Terminal as follows:
 
