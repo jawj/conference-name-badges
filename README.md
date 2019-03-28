@@ -32,9 +32,9 @@ Our [template document](name-badges-template.indd) (with the Data Merge tab open
 
 We used **text data fields** for name (George MacKerron), affiliation (University of Sussex), and position (LOCAL ORGANISER). 
 
-We used **image fields** referencing Illustrator files for a blue 'Conference Assistant' stamp and for the day indicators. The day indicators comprised of three placeholders, each of which could reference an empty circle or a filled circle showing one of the conference days (we therefore had 6 files in all: MonY.ai, MonN.ai, TueY.ai, TueN.ai, WedY.ai, WedN.ai).
+We used **image fields** referencing Illustrator files for a [blue 'Conference Assistant'](ConfAsst.ai) stamp and for the day indicators. The day indicators comprised of three placeholders, each of which could reference an empty circle or a filled circle showing one of the conference days (we therefore had 6 files in all: [MonY.ai](MonY.ai), [MonN.ai](MonN.ai), [TueY.ai](TueY.ai), [TueN.ai](TueN.ai), [WedY.ai](WedY.ai), [WedN.ai](WedN.ai)).
 
-(We also had small gold dots indicating that the delegate had registered for the conference dinner, and small silver dots indicating that the delegate had special dietary requirements, but for simplicity I won't mention these again).
+(We also had small [gold dots](GoldDot.ai) indicating that the delegate had registered for the conference dinner, and small [silver dots](SilverDot.ai) indicating that the delegate had special dietary requirements, but for simplicity I won't mention these again).
 
 We set the Data Merge options to produce multiple records per page, and to lay those out row first.
 
