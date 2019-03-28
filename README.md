@@ -16,7 +16,7 @@ The design goals were that the badges should:
 2. make clear which days delegates were registered for — or otherwise show that they had a special role, such as conference assistant; and
 3. keep the delegate's name visible at all times.
 
-We chose plain blue single-clip lanyards with 110×105mm T3 landscape PVC wallets (from [Lanyards Direct](https://www.lanyardsdirect.co.uk/product/plain-lanyards/plain-blue-lanyards/)). This was one of the cheapest options. The wallet dimensions were generous. They also let us fit 6 badges on a sheet with no trimming.
+We chose plain blue single-clip lanyards with 110×105mm T3 landscape PVC wallets (from [Lanyards Direct](https://www.lanyardsdirect.co.uk/product/plain-lanyards/plain-blue-lanyards/)). This was one of the cheapest options. The wallet dimensions were generous. They also let us fit 6 badges on a sheet with no wastage (or extra cutting).
 
 Printed on 160gsm card and cut to size, the badges ended up looking like this:
 
@@ -82,7 +82,7 @@ We cut as follows. Taking three sheets together, we cut lengthways to make two c
 
 You may think I have laboured this explanation a bit. But by following a single, consistent cutting order, we were able to make an optimisation prior to the merge. We re-ordered the rows of the delegate data so that, after we had cut the badges in these batches of 18, they would be in alphabetical order with no further sorting required.
 
-To make this work, badge 1 should be at top left of the  sheet 1, badge 2 at top left of the sheet 2, and badge 3 at top left of sheet 3. Then badge 4 is at top right of sheet 1, badge 5 at top right of sheet 2, and badge 6 at top right of sheet 3. Then badge 7 is at mid left of sheet 1 ... and so on.
+To make this work, badges 1, 2 and 3 must be at the _top left_ of sheets 1, 2 and 3. Badges 4, 5 and 6 should be at the _top right_ of sheets 1, 2 and 3. Then badges 7, 8 and 9 must be at _mid left_ of sheets 1, 2 and 3 ... and so on.
 
 Once again I wrote [a short Ruby script](cutting-order.rb) to automate this shuffle. This can be combined with the double-siding procedure above, but the shuffle must be done **first**.
 
