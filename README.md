@@ -1,6 +1,9 @@
 # Conference name badges
 
+<img src="examples-6@2x.png" alt="6-up example badges" width="310" style="float: right; margin: 0 0 20px 20px" />
+
 This page gives a quick walkthrough of how we made name badges for the [Royal Economic Society Annual Conference](https://www.res.org.uk/event-listing/annual-conference.html) in 2018. 
+
 
 ## Aims
 
