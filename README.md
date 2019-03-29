@@ -1,4 +1,4 @@
-# Double-sided conference name badges
+# Double-sided conference name badges: a HOWTO
 
 This page gives a quick walkthrough of how we made name badges for the [Royal Economic Society Annual Conference](https://www.res.org.uk/event-listing/annual-conference.html) in 2018. 
 
