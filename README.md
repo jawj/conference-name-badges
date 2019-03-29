@@ -1,9 +1,10 @@
 # Conference name badges
 
-<img src="examples-6@2x.png" alt="6-up example badges" width="310" style="float: right; margin: 0 0 20px 20px" />
-
 This page gives a quick walkthrough of how we made name badges for the [Royal Economic Society Annual Conference](https://www.res.org.uk/event-listing/annual-conference.html) in 2018. 
 
+Printed on 160gsm card and cut to size, the badges ended up looking like this:
+
+<img src="example-printed@2x.jpg" alt="Finished example badge" width="400" height="483" />
 
 ## Aims
 
@@ -21,9 +22,6 @@ The design goals were that the badges should:
 
 We chose plain blue single-clip lanyards with 110×105mm T3 landscape PVC wallets (from [Lanyards Direct](https://www.lanyardsdirect.co.uk/product/plain-lanyards/plain-blue-lanyards/)). This was one of the cheapest options. The wallet dimensions were generous. They also let us fit 6 badges on a sheet with no wastage (or extra cutting).
 
-Printed on 160gsm card and cut to size, the badges ended up looking like this:
-
-<img src="example-printed@2x.jpg" alt="Finished example badge" width="400" height="483" />
 
 ## Creating badges in InDesign using Data Merge
 
